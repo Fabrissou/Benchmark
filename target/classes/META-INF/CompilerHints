@@ -1,0 +1,7 @@
+dontinline,org/example/MyBenchmark.testMethod_avgt_jmhLoop
+dontinline,org/example/MyBenchmark.testMethod_sample_jmhLoop
+dontinline,org/example/MyBenchmark.testMethod_ss_jmhStub
+dontinline,org/example/MyBenchmark.testMethod_thrpt_jmhLoop
+inline,org/example/MyBenchmark$MyState.doSetup
+inline,org/example/MyBenchmark.testMethod
+inline,org/openjdk/jmh/infra/Blackhole.clearSinks
