@@ -1,17 +1,2 @@
-org\example\generated\MyBenchmark_testMethod$Blackhole_1_jmh_B3.class
-org\example\generated\MyBenchmark_testMethod$MyState_1_jmh_B3.class
-org\example\generated\MyBenchmark_testMethod.class
-org\example\generated\MyBenchmark_testMethod$MyBenchmark_1_jmh_B1.class
-org\example\generated\MyBenchmark_testMethod$MyBenchmark_1_jmh_B2.class
-org\example\generated\MyBenchmark_testMethod$Blackhole_1_jmh.class
-org\example\generated\MyBenchmark_testMethod$Blackhole_1_jmh_B2.class
-org\example\generated\MyBenchmark_testMethod$MyState_1_jmh_B2.class
-org\example\generated\MyBenchmark_testMethod$Blackhole_1_jmh_B1.class
-org\example\MyBenchmark$MyState.class
 META-INF\BenchmarkList
 META-INF\CompilerHints
-org\example\generated\MyBenchmark_testMethod$MyBenchmark_1_jmh.class
-org\example\generated\MyBenchmark_testMethod$MyBenchmark_1_jmh_B3.class
-org\example\MyBenchmark.class
-org\example\generated\MyBenchmark_testMethod$MyState_1_jmh.class
-org\example\generated\MyBenchmark_testMethod$MyState_1_jmh_B1.class
